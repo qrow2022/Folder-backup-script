@@ -1,4 +1,4 @@
-# Folder-backup-script
+# Folder Backup Script
 
 This is a script to create backup copies of files in a specified directory and place the backup copies in another specified directory.
 
